@@ -1,2 +1,2 @@
 # aws-svcs-example
-AWS Services(S3/SNS) example
+AWS Services(EC2/S3/SNS) example
